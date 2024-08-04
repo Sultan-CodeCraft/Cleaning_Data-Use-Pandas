@@ -1,18 +1,21 @@
 # Data Scraping and cleaning Process Use Pandas
-- Steps to Implement Data Cleaning Method:
- Scraping Data:
-
+- **Scraping Data:**
+'''
 Scrape data from Dawn News up to 500 lines using a data scraper.
 Save the scraped data into a CSV file.
-Applying Python Concepts:
-
+'''
+- **Applying Python Concepts:**
+'''
 Utilize Python concepts for data processing.
-Using Libraries:
-
+'''
+- **Using Libraries:**
+'''
 Use the re and pandas libraries for data cleaning and manipulation.
-Final CSV Files:
-
-Generate three CSV files at the end:
-One for Pakistan data.
-One for World data.
-One for Newspaper data.
+'''
+- **Final CSV Files:**
+'''
+Generate **three** CSV files at the end:
+   One for Pakistan data.
+   One for World data.
+   One for Newspaper data.
+'''
