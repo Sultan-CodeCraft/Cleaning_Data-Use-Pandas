@@ -1,4 +1,4 @@
-# Data Scraping and cleaning Process Use Pandas
+# Data Scraping and cleaning Process Using Pandas
 - **Scraping Data:**
 ''
 Scrape data from Dawn News up to 500 lines using a data scraper.
