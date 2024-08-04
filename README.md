@@ -1,7 +1,7 @@
 # Data Scraping and cleaning Process Using Pandas
 - **Scraping Data:**
 ''
-Scrape data from Dawn News up to 500 lines using a data scraper.
+Scrape data from Random Dawn News up to 500 lines using a data scraper.
 Save the scraped data into a CSV file.
 ''
 - **Applying Python Concepts:**
